@@ -1,0 +1,9 @@
+{
+    "path" : "~/Dropbox/diamonds-data/cushioncalc",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}
