@@ -1,15 +1,6 @@
 *.csv
 *.png
 .Rproj.user
-
 cushioncalc/.Rhistory
-
 *.pper
-
-cushioncalc/.Rhistory
-
-cushioncalc/.Rproj.user/7B72A737/sdb/per/t/5AA2754F
-
-cushioncalc/.Rproj.user/7B72A737/sdb/per/t/27E9AF68
-
-*.pper
+cushioncalc/.Rproj.user/*
